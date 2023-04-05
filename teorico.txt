@@ -1,0 +1,10 @@
+No logré hacer lo de los endpoints ya que aun no lo sé profundamente.
+
+Consigna teórica:
+2- Nombre dos métodos HTTP para interactuar con una api y explíquelos.
+
+PUT: se usa para actualizar información existente en una API. Por ejemplo, si queremos actualizar la edad de un perro en la API de perros,
+usariamos el método PUT para enviar la nueva información a la API.
+
+DELETE: se usa para eliminar información existente de una API. Por ejemplo, si queremos eliminar un perro de la API de perros,
+usariamos el método DELETE para enviar la solicitud de eliminación a la API. Se especifica el recurso que se queremos eliminar en la URL y el servidor procesa la solicitud y elimina el recurso correspondiente.
